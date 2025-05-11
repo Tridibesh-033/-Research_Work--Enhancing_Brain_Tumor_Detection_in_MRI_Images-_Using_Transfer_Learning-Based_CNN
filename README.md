@@ -1,4 +1,4 @@
-# (Research_Work): Enhancing_Brain_Tumor_Detection_in_MRI_Images-_Using_Transfer_Learning-Based_CNN
+# (Research_Work): Enhancing Brain Tumor Detection in MRI Images Using Transfer Learning Based CNN
 ### This research work was presented at 2ND INTERNATIONAL CONFERENCE ON DATA DRIVEN AI (ICDDA 2025) at Kaziranga University (Jorhat, Assam, India) in 2025.
 
 Brain cancer is among the deadliest due to its rapid growth and spread. Differentiating aggressive from less aggressive forms remains challenging. Deep learning, especially Convolutional Neural Networks (CNNs), has shown promise in automating tumor detection from MRI scans. This study proposes a CNN-based model for classifying brain tumors into glioma, meningioma, pituitary tumor, and no tumor. Using data augmentation, transfer learning, and fine-tuning, the model achieved >98% accuracy, outperforming traditional methods. Its strong transfer learning capabilities suggest real-world applicability, making CNN a valuable tool for improving brain cancer diagnosis and treatment.
