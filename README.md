@@ -6,10 +6,10 @@ Brain cancer is among the deadliest due to its rapid growth and spread. Differen
 ![image](https://github.com/user-attachments/assets/6a35d906-f310-483f-8aa7-3c13d44312d7)
 ![image](https://github.com/user-attachments/assets/d02a44af-2115-415a-8b7c-674a8de0c2e5)
 ![image](https://github.com/user-attachments/assets/076a6191-9b05-4267-818d-337af2093b61)
+![image](https://github.com/user-attachments/assets/cf3ead09-9ce6-4b0b-abe0-5fc93c0699d8)
 ![image](https://github.com/user-attachments/assets/92855d52-2a88-4c5b-bc27-280f0643092c)
 ![image](https://github.com/user-attachments/assets/6e5c54b0-31dd-4c03-95b3-be7dd115d880)
 ![image](https://github.com/user-attachments/assets/11d7b472-9dce-47cd-8e1e-765e03ea0354)
-![image](https://github.com/user-attachments/assets/cf3ead09-9ce6-4b0b-abe0-5fc93c0699d8)
 ![image](https://github.com/user-attachments/assets/77c676fb-221e-4a84-93c2-70682ce67662)
 ![image](https://github.com/user-attachments/assets/3fcf76a0-5a2b-4c44-ba4c-47276a2f603e)
 
